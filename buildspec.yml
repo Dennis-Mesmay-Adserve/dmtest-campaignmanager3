@@ -8,7 +8,7 @@ phases:
     commands:
       - npm run build
 
-artifacts:
+artifacts: 
   files:
     - '**/*'
   discard-paths: no
